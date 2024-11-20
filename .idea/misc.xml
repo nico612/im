@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BufFileManager">
+    <libraries>
+      <module>
+        <name>buf.build/googleapis/googleapis</name>
+        <path>$USER_HOME$/.cache/buf/v1/module/data/buf.build/googleapis/googleapis/28151c0d0a1641bf938a7672c500e01d</path>
+        <reference>buf.build/googleapis/googleapis:28151c0d0a1641bf938a7672c500e01d</reference>
+        <yaml>$USER_HOME$/.cache/buf/v1/module/data/buf.build/googleapis/googleapis/28151c0d0a1641bf938a7672c500e01d/buf.yaml</yaml>
+      </module>
+      <module>
+        <name>buf.build/googleapis/googleapis</name>
+        <path>$USER_HOME$/.cache/buf/v1/module/data/buf.build/googleapis/googleapis/a86849a25cc04f4dbe9b15ddddfbc488</path>
+        <reference>buf.build/googleapis/googleapis:a86849a25cc04f4dbe9b15ddddfbc488</reference>
+        <yaml>$USER_HOME$/.cache/buf/v1/module/data/buf.build/googleapis/googleapis/a86849a25cc04f4dbe9b15ddddfbc488/buf.yaml</yaml>
+      </module>
+      <module>
+        <name>buf.build/grpc-ecosystem/grpc-gateway</name>
+        <path>$USER_HOME$/.cache/buf/v1/module/data/buf.build/grpc-ecosystem/grpc-gateway/3f42134f4c564983838425bc43c7a65f</path>
+        <reference>buf.build/grpc-ecosystem/grpc-gateway:3f42134f4c564983838425bc43c7a65f</reference>
+        <yaml>$USER_HOME$/.cache/buf/v1/module/data/buf.build/grpc-ecosystem/grpc-gateway/3f42134f4c564983838425bc43c7a65f/buf.yaml</yaml>
+      </module>
+      <module>
+        <lockedDependencies>
+          <dependency>
+            <commit>62f35d8aed1149c291d606d958a7ce32</commit>
+            <owner>googleapis</owner>
+            <remote>buf.build</remote>
+            <repository>googleapis</repository>
+          </dependency>
+        </lockedDependencies>
+        <name>buf.build/grpc-ecosystem/protoc-gen-swagger</name>
+        <path>$USER_HOME$/.cache/buf/v1/module/data/buf.build/grpc-ecosystem/protoc-gen-swagger/177bd018c960492d831aee5e88594dec</path>
+        <reference>buf.build/grpc-ecosystem/protoc-gen-swagger:177bd018c960492d831aee5e88594dec</reference>
+        <yaml>$USER_HOME$/.cache/buf/v1/module/data/buf.build/grpc-ecosystem/protoc-gen-swagger/177bd018c960492d831aee5e88594dec/buf.yaml</yaml>
+      </module>
+    </libraries>
+  </component>
+</project>
